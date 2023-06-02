@@ -1,3 +1,0 @@
-  else{
-            cout<<max2;
-        }
