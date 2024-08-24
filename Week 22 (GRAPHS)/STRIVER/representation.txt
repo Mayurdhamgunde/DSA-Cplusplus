@@ -1,0 +1,6 @@
+We can represent graph through : - 
+1.) Matrix Representation of Graph (Here it takes n^2 space).
+2.) Adjacency List representation of Graph. (It takes less space than matrix represntation).
+
+
+
